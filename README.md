@@ -1,2 +1,2 @@
 # HLSzynq
-Este trabajo fue generado durante mis practicas Profesionales en la Facultad de Fisico Matematicas de la BUAP
+Este trabajo fue generado durante mis prácticas Profesionales en la Facultad de Físico Matemáticas de la BUAP
