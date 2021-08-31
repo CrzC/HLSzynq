@@ -18,7 +18,7 @@ Todas las practicas se realizaron en la tarjeta  [PYNQ-Z2](https://www.tul.com.t
 
 ## Estructura de las carpetas
 
-"Nombre de la Practica"
+Las practicas estan en carpetas que tienen la siguiente estrucutra:
 
 ```bash
 Nombre de la practica
@@ -31,7 +31,6 @@ Nombre de la practica
         ├── practica.tcl  
       
 ```
-
 
 ## Glosario
 1. RTL: Register Transfer Level,es un nivel de abstracción relativamente bajo que permite la descripción de un circuito digital específico. RTL también se puede usar para referirse a un lenguaje de descripción de hardware (VHDL, Verilog, SystemC), donde el código "RTL" es un nivel de abstracción más bajo que el código de "Nivel de comportamiento".
