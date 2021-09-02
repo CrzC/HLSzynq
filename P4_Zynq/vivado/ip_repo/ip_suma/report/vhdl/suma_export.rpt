@@ -1,0 +1,19 @@
+
+
+Implementation tool: Xilinx Vivado v.2019.1
+Project:             Mutliplicacion
+Solution:            solution1
+Device target:       xc7z020-clg400-1
+Report date:         Wed Sep 01 12:07:09 -0500 2021
+
+#=== Post-Synthesis Resource usage ===
+SLICE:            0
+LUT:            379
+FF:             431
+DSP:              2
+BRAM:             0
+SRL:              0
+#=== Final timing ===
+CP required:    10.000
+CP achieved post-synthesis:    8.276
+Timing met
