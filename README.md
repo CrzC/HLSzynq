@@ -12,18 +12,23 @@ Todas las practicas se realizaron en la tarjeta  [PYNQ-Z2](https://www.tul.com.t
 ![practica1](/imagenes/practica1.png)
 
 2.  Primer boot en la tarjeta PYNQ -Z2 
+
 ![practica2](/imagenes/practica2.png)
 3.  Crear un Overlay
 
 4.  Crear IP con Vitis HLS
 
 5.  Overlay con IP's de HLS
+
 ![practica5](/imagenes/practica5.png)
 6.  Suma de Matrices
+
 ![practica6](/imagenes/practica6.png)
 7.  Multiplicación de matrices
+
 ![practica7](/imagenes/practica7.png)
 8.  Uso del Axi Timer
+
 ![practica8](/imagenes/practica8.png)
 
 
