@@ -8,13 +8,16 @@ Todas las practicas se realizaron en la tarjeta  [PYNQ-Z2](https://www.tul.com.t
 
 ## Practicas 
 1. Zynq con Módulo RTL
-2.  Primer boot en la tarjeta PYNQ -Z2 
-3.  Crear un Overlay
-4.  Crear IP con Vitis HLS
-5.  Overlay con IP's de HLS
-6.  Suma de Matrices
-7.  Multiplicación de matrices
-8.  Uso del Axi Timer
+
+![practica1](/imagenes/practica1.png)
+
+3.  Primer boot en la tarjeta PYNQ -Z2 
+4.  Crear un Overlay
+5.  Crear IP con Vitis HLS
+6.  Overlay con IP's de HLS
+7.  Suma de Matrices
+8.  Multiplicación de matrices
+9.  Uso del Axi Timer
 
 
 
